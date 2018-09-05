@@ -62,7 +62,7 @@ class LinkedList
 		llist.push(17);
 		llist.push(11);
 		llist.append(4);
-		llist.insertAfter(llist.head.next, 8);
+		llist.insertAfter(llist.head.next, 11);
 		System.out.println("Linked list is: ");
 		llist.printList();
 	}
