@@ -52,7 +52,7 @@ class LinkedList
         System.out.println("Created Linked list is:");
         llist.printList();
         llist.deleteNode(17);
-        System.out.println("Linked List after Deletion at position 4:");
+        System.out.println("Linked List after Deletion at position 1:");
         llist.printList();
     }
 }
